@@ -1,0 +1,7 @@
+<map id="Bembel::DuffyTrick::tau" name="Bembel::DuffyTrick::tau">
+<area shape="rect" id="node2" href="$group___duffy_trick.html#gafcea22904d57b180213ca56e69507a3c" title="quadrature routine for the common edge case " alt="" coords="228,16,373,57"/>
+<area shape="rect" id="node6" href="$group___duffy_trick.html#gaaa578a1e850501b80e18770123c1fbd9" title="quadrature routine for identical elements " alt="" coords="228,81,373,123"/>
+<area shape="rect" id="node3" href="$group___duffy_trick.html#ga370361a4a818b3a7a09d915d4f99f8e7" title="This function wraps the quadrature routines for the duffy trick and returns all integrals for the giv..." alt="" coords="421,49,592,91"/>
+<area shape="rect" id="node4" href="$class_eigen_1_1_h2_matrix.html#aa020f25d1d009e639d3f49d96f3d3d6b" title="Assemble H2&#45;Matrix for linear operator linOp and AnsatzSpace ansatz_space with number_of_points inter..." alt="" coords="664,5,819,47"/>
+<area shape="rect" id="node5" href="$struct_bembel_1_1_discrete_operator_computer_3_01_eigen_1_1_matrix_3_01_scalar_00_01_eigen_1_1_d3ab5fe988617dc61bfc63242dee3aaad.html#a763d4c3d7b491439dfeaba61fdae4ac8" title="Bembel::DiscreteOperator\lComputer\&lt; Eigen::Matrix\l\&lt; Scalar, Eigen::Dynamic,\l Eigen::Dynamic \&gt;, Derived\l \&gt;::compute" alt="" coords="640,71,843,157"/>
+</map>

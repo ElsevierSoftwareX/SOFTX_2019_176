@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['patch',['Patch',['../class_bembel_1_1_patch.html',1,'Bembel']]],
+  ['potentialbase',['PotentialBase',['../struct_bembel_1_1_potential_base.html',1,'Bembel']]],
+  ['potentialbase_3c_20helmholtzsinglelayerpotential_3c_20linop_20_3e_2c_20linop_20_3e',['PotentialBase&lt; HelmholtzSingleLayerPotential&lt; LinOp &gt;, LinOp &gt;',['../struct_bembel_1_1_potential_base.html',1,'Bembel']]],
+  ['potentialbase_3c_20laplacesinglelayerpotential_3c_20linop_20_3e_2c_20linop_20_3e',['PotentialBase&lt; LaplaceSingleLayerPotential&lt; LinOp &gt;, LinOp &gt;',['../struct_bembel_1_1_potential_base.html',1,'Bembel']]],
+  ['potentialbase_3c_20maxwellsinglelayerpotential_3c_20linop_20_3e_2c_20linop_20_3e',['PotentialBase&lt; MaxwellSingleLayerPotential&lt; LinOp &gt;, LinOp &gt;',['../struct_bembel_1_1_potential_base.html',1,'Bembel']]],
+  ['potentialreturnscalar',['PotentialReturnScalar',['../struct_bembel_1_1_potential_return_scalar.html',1,'Bembel']]],
+  ['potentialreturnscalar_3c_20double_2c_20double_20_3e',['PotentialReturnScalar&lt; double, double &gt;',['../struct_bembel_1_1_potential_return_scalar_3_01double_00_01double_01_4.html',1,'Bembel']]],
+  ['potentialreturnscalar_3c_20double_2c_20std_3a_3acomplex_3c_20double_20_3e_20_3e',['PotentialReturnScalar&lt; double, std::complex&lt; double &gt; &gt;',['../struct_bembel_1_1_potential_return_scalar_3_01double_00_01std_1_1complex_3_01double_01_4_01_4.html',1,'Bembel']]],
+  ['potentialreturnscalar_3c_20std_3a_3acomplex_3c_20double_20_3e_2c_20double_20_3e',['PotentialReturnScalar&lt; std::complex&lt; double &gt;, double &gt;',['../struct_bembel_1_1_potential_return_scalar_3_01std_1_1complex_3_01double_01_4_00_01double_01_4.html',1,'Bembel']]],
+  ['potentialreturnscalar_3c_20std_3a_3acomplex_3c_20double_20_3e_2c_20std_3a_3acomplex_3c_20double_20_3e_20_3e',['PotentialReturnScalar&lt; std::complex&lt; double &gt;, std::complex&lt; double &gt; &gt;',['../struct_bembel_1_1_potential_return_scalar_3_01std_1_1complex_3_01double_01_4_00_01std_1_1complex_3_01double_01_4_01_4.html',1,'Bembel']]],
+  ['potentialtraits',['PotentialTraits',['../struct_bembel_1_1_potential_traits.html',1,'Bembel']]],
+  ['potentialtraits_3c_20helmholtzsinglelayerpotential_3c_20linop_20_3e_20_3e',['PotentialTraits&lt; HelmholtzSingleLayerPotential&lt; LinOp &gt; &gt;',['../struct_bembel_1_1_potential_traits_3_01_helmholtz_single_layer_potential_3_01_lin_op_01_4_01_4.html',1,'Bembel']]],
+  ['potentialtraits_3c_20laplacesinglelayerpotential_3c_20linop_20_3e_20_3e',['PotentialTraits&lt; LaplaceSingleLayerPotential&lt; LinOp &gt; &gt;',['../struct_bembel_1_1_potential_traits_3_01_laplace_single_layer_potential_3_01_lin_op_01_4_01_4.html',1,'Bembel']]],
+  ['potentialtraits_3c_20maxwellsinglelayerpotential_3c_20linop_20_3e_20_3e',['PotentialTraits&lt; MaxwellSingleLayerPotential&lt; LinOp &gt; &gt;',['../struct_bembel_1_1_potential_traits_3_01_maxwell_single_layer_potential_3_01_lin_op_01_4_01_4.html',1,'Bembel']]],
+  ['projector',['Projector',['../class_bembel_1_1_projector.html',1,'Bembel']]],
+  ['projector_5fmatrixmaker_5f',['projector_matrixmaker_',['../struct_bembel_1_1_projector_routines_1_1projector__matrixmaker__.html',1,'Bembel::ProjectorRoutines']]],
+  ['projector_5fmatrixmaker_5f_3c_20derived_2c_20differentialform_3a_3acontinuous_20_3e',['projector_matrixmaker_&lt; Derived, DifferentialForm::Continuous &gt;',['../struct_bembel_1_1_projector_routines_1_1projector__matrixmaker___3_01_derived_00_01_differential_form_1_1_continuous_01_4.html',1,'Bembel::ProjectorRoutines']]],
+  ['projector_5fmatrixmaker_5f_3c_20derived_2c_20differentialform_3a_3adiscontinuous_20_3e',['projector_matrixmaker_&lt; Derived, DifferentialForm::Discontinuous &gt;',['../struct_bembel_1_1_projector_routines_1_1projector__matrixmaker___3_01_derived_00_01_differential_form_1_1_discontinuous_01_4.html',1,'Bembel::ProjectorRoutines']]],
+  ['projector_5fmatrixmaker_5f_3c_20derived_2c_20differentialform_3a_3adivconforming_20_3e',['projector_matrixmaker_&lt; Derived, DifferentialForm::DivConforming &gt;',['../struct_bembel_1_1_projector_routines_1_1projector__matrixmaker___3_01_derived_00_01_differential_form_1_1_div_conforming_01_4.html',1,'Bembel::ProjectorRoutines']]],
+  ['pspecificbasishandler',['PSpecificBasisHandler',['../class_bembel_1_1_basis_1_1_p_specific_basis_handler.html',1,'Bembel::Basis']]],
+  ['pspecificbasishandler_3c_200_2c_20scalar_20_3e',['PSpecificBasisHandler&lt; 0, Scalar &gt;',['../class_bembel_1_1_basis_1_1_p_specific_basis_handler_3_010_00_01_scalar_01_4.html',1,'Bembel::Basis']]],
+  ['pspecificshapefunctionhandler',['PSpecificShapeFunctionHandler',['../class_bembel_1_1_basis_1_1_p_specific_shape_function_handler.html',1,'Bembel::Basis']]],
+  ['pspecificshapefunctionhandler_3c_200_20_3e',['PSpecificShapeFunctionHandler&lt; 0 &gt;',['../class_bembel_1_1_basis_1_1_p_specific_shape_function_handler_3_010_01_4.html',1,'Bembel::Basis']]]
+];

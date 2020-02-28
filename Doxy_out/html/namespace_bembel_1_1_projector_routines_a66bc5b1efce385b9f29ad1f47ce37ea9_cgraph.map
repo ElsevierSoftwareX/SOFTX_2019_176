@@ -1,0 +1,10 @@
+<map id="Bembel::ProjectorRoutines::makeLocalProjectionTriplets" name="Bembel::ProjectorRoutines::makeLocalProjectionTriplets">
+<area shape="rect" id="node2" href="$struct_bembel_1_1_super_space.html#a5f3f9572bcbb4306e4e7e7ec55801574" title="Bembel::SuperSpace\l::get_refinement_level" alt="" coords="313,5,481,47"/>
+<area shape="rect" id="node3" href="$struct_bembel_1_1_super_space.html#a6675b25cd3d78e2d9958ebbceb72e548" title="Bembel::SuperSpace\l::get_polynomial_degree" alt="" coords="305,71,488,112"/>
+<area shape="rect" id="node4" href="$struct_bembel_1_1_super_space.html#a51d1cc7bd6a9367686fd3ba51a09da29" title="Bembel::SuperSpace\l::get_number_of_patches" alt="" coords="303,136,490,177"/>
+<area shape="rect" id="node5" href="$namespace_bembel_1_1_spl.html#a180e8a259dab16bb8ee63d886aaf5b36" title="Bembel::Spl::MakeUniform\lKnotVector" alt="" coords="299,201,495,243"/>
+<area shape="rect" id="node6" href="$namespace_bembel_1_1_spl.html#a3a58c86e1147b0087815020b43d06d63" title="Bembel::Spl::MakeInterpolationMask" alt="" coords="267,267,527,294"/>
+<area shape="rect" id="node7" href="$class_bembel_1_1_basis_1_1_p_specific_shape_function_handler.html#adf2f8c431af1c6bfc05beeda7e292405" title="Bembel::Basis::PSpecific\lShapeFunctionHandler::\levalBasis" alt="" coords="306,318,487,374"/>
+<area shape="rect" id="node8" href="$struct_bembel_1_1_super_space.html#a14e5e60f4c5b98840f6457bcdf3b9376" title="Bembel::SuperSpace\l::get_mesh" alt="" coords="319,399,475,440"/>
+<area shape="rect" id="node9" href="$group___spline.html#ga72fafe41754fc4ebeb6251b0819e6191" title="&quot;By the book&quot; implementations of the Cox&#45;DeBoor formula. Inefficient, do not use at bottlenecks..." alt="" coords="319,465,475,491"/>
+</map>

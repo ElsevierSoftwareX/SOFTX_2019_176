@@ -1,0 +1,4 @@
+<map id="Bembel::ElementTreeNode::get_memory" name="Bembel::ElementTreeNode::get_memory">
+<area shape="rect" id="node2" href="$class_eigen_1_1_h2_matrix.html#aa020f25d1d009e639d3f49d96f3d3d6b" title="Assemble H2&#45;Matrix for linear operator linOp and AnsatzSpace ansatz_space with number_of_points inter..." alt="" coords="285,5,439,47"/>
+<area shape="rect" id="node3" href="$struct_eigen_1_1internal_1_1generic__product__impl_3_01_h2_matrix_3_01_scalar_t_01_4_00_01_rhs_0862766941c73766b97391c41efe25015.html#a68b03d14f325bbeff4a44765148d549b" title="Eigen::internal::generic\l_product_impl\&lt; H2Matrix\l\&lt; ScalarT \&gt;, Rhs, SparseShape,\l DenseShape, GemvProduct \&gt;::\lscaleAndAddTo" alt="" coords="248,71,476,157"/>
+</map>

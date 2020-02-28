@@ -1,0 +1,9 @@
+<map id="Bembel::Spl::MakeProjection" name="Bembel::Spl::MakeProjection">
+<area shape="rect" id="node2" href="$namespace_bembel_1_1_spl.html#a3a58c86e1147b0087815020b43d06d63" title="Bembel::Spl::MakeInterpolationMask" alt="" coords="261,5,521,32"/>
+<area shape="rect" id="node3" href="$group___spline.html#gad40828354c5de3057dce2c485b434415" title="Creates a T&#45;vector of equidistant itnerpolation points for a given knot vector without any repetition..." alt="" coords="278,57,505,98"/>
+<area shape="rect" id="node4" href="$class_bembel_1_1_basis_1_1_p_specific_shape_function_handler.html#ab0d60a0b9e034bd8e1843da043d2307a" title="Bembel::Basis::PSpecific\lShapeFunctionHandler::\levalCoef" alt="" coords="301,123,482,179"/>
+<area shape="rect" id="node5" href="$namespace_bembel_1_1_spl.html#aff0011d9cba5053388899d445558f1fe" title="Bembel::Spl::Rescale" alt="" coords="312,203,471,229"/>
+<area shape="rect" id="node6" href="$namespace_bembel_1_1_spl.html#afe8b940b8c20a2b4efe8850f853bf5c5" title="Tiny helper functions. " alt="" coords="318,253,465,280"/>
+<area shape="rect" id="node7" href="$namespace_bembel_1_1_spl.html#ad0cf5f62596d46c750b189c0ef35980e" title="Simple TP Bsplines. " alt="" coords="305,304,477,331"/>
+<area shape="rect" id="node8" href="$group___spline.html#ga72fafe41754fc4ebeb6251b0819e6191" title="&quot;By the book&quot; implementations of the Cox&#45;DeBoor formula. Inefficient, do not use at bottlenecks..." alt="" coords="569,304,725,331"/>
+</map>

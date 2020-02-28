@@ -1,0 +1,10 @@
+<map id="Bembel::LinearOperatorBase::evaluateIntegrand" name="Bembel::LinearOperatorBase::evaluateIntegrand">
+<area shape="rect" id="node2" href="$group___duffy_trick.html#ga551dfff392f5c82f0e78b9a48e7f2a5d" title="far&#45;field quadrature routine, which is based on precomputed values in order to quickly evaluate the i..." alt="" coords="263,5,408,47"/>
+<area shape="rect" id="node6" href="$group___duffy_trick.html#ga5915e8d259c430b7172dc5369bc70d3a" title="no&#45;problem quadrature routine, elements are sufficiently far away from each other, but not far&#45;field yet (this is just an isotropic tensor product quadrature!) " alt="" coords="263,71,408,112"/>
+<area shape="rect" id="node7" href="$group___duffy_trick.html#ga49dc354f57c687874f43ee3e525a5ecd" title="quadrature routine for identical elements " alt="" coords="263,136,408,177"/>
+<area shape="rect" id="node8" href="$group___duffy_trick.html#gafcea22904d57b180213ca56e69507a3c" title="quadrature routine for the common edge case " alt="" coords="263,201,408,243"/>
+<area shape="rect" id="node9" href="$group___duffy_trick.html#gaaa578a1e850501b80e18770123c1fbd9" title="quadrature routine for identical elements " alt="" coords="263,267,408,308"/>
+<area shape="rect" id="node3" href="$group___duffy_trick.html#ga370361a4a818b3a7a09d915d4f99f8e7" title="This function wraps the quadrature routines for the duffy trick and returns all integrals for the giv..." alt="" coords="456,136,627,177"/>
+<area shape="rect" id="node4" href="$class_eigen_1_1_h2_matrix.html#aa020f25d1d009e639d3f49d96f3d3d6b" title="Assemble H2&#45;Matrix for linear operator linOp and AnsatzSpace ansatz_space with number_of_points inter..." alt="" coords="699,92,853,133"/>
+<area shape="rect" id="node5" href="$struct_bembel_1_1_discrete_operator_computer_3_01_eigen_1_1_matrix_3_01_scalar_00_01_eigen_1_1_d3ab5fe988617dc61bfc63242dee3aaad.html#a763d4c3d7b491439dfeaba61fdae4ac8" title="Bembel::DiscreteOperator\lComputer\&lt; Eigen::Matrix\l\&lt; Scalar, Eigen::Dynamic,\l Eigen::Dynamic \&gt;, Derived\l \&gt;::compute" alt="" coords="675,158,877,243"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Bembel::Patch::Patch" name="Bembel::Patch::Patch">
+<area shape="rect" id="node2" href="$class_bembel_1_1_patch.html#a94e90e693ae9764675d67ea9b1755252" title="init " alt="" coords="212,64,356,105"/>
+<area shape="rect" id="node3" href="$namespace_bembel_1_1_spl.html#a5a9d9cd6f78e5d54f4a89905378d9374" title="Bembel::Spl::ExtractUnique\lKnotVector" alt="" coords="408,5,608,47"/>
+<area shape="rect" id="node4" href="$namespace_bembel_1_1_spl.html#afe8b940b8c20a2b4efe8850f853bf5c5" title="Tiny helper functions. " alt="" coords="717,42,863,69"/>
+<area shape="rect" id="node5" href="$group___spline.html#gaedbab2805662ec55aede9e429b384756" title="implements Bezier extraction via the solution of an interpolation problem. " alt="" coords="404,151,612,178"/>
+<area shape="rect" id="node6" href="$namespace_bembel_1_1_spl.html#a3a58c86e1147b0087815020b43d06d63" title="Bembel::Spl::MakeInterpolationMask" alt="" coords="660,93,920,119"/>
+<area shape="rect" id="node7" href="$group___spline.html#gad40828354c5de3057dce2c485b434415" title="Creates a T&#45;vector of equidistant itnerpolation points for a given knot vector without any repetition..." alt="" coords="677,144,903,185"/>
+<area shape="rect" id="node8" href="$class_bembel_1_1_basis_1_1_p_specific_shape_function_handler.html#ab0d60a0b9e034bd8e1843da043d2307a" title="Bembel::Basis::PSpecific\lShapeFunctionHandler::\levalCoef" alt="" coords="699,210,881,266"/>
+<area shape="rect" id="node9" href="$namespace_bembel_1_1_spl.html#aff0011d9cba5053388899d445558f1fe" title="Bembel::Spl::Rescale" alt="" coords="711,290,869,317"/>
+<area shape="rect" id="node10" href="$namespace_bembel_1_1_spl.html#ad0cf5f62596d46c750b189c0ef35980e" title="Simple TP Bsplines. " alt="" coords="704,341,876,367"/>
+<area shape="rect" id="node11" href="$group___spline.html#ga72fafe41754fc4ebeb6251b0819e6191" title="&quot;By the book&quot; implementations of the Cox&#45;DeBoor formula. Inefficient, do not use at bottlenecks..." alt="" coords="968,341,1124,367"/>
+</map>

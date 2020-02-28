@@ -1,0 +1,7 @@
+<map id="Bembel::AnsatzSpace::get_superspace" name="Bembel::AnsatzSpace::get_superspace">
+<area shape="rect" id="node2" href="$class_bembel_1_1_block_cluster_tree.html#a85ffc0c8732cce33c2589eb38820a059" title="Bembel::BlockClusterTree\l::init_BlockClusterTree" alt="" coords="225,5,414,47"/>
+<area shape="rect" id="node3" href="$class_eigen_1_1_h2_matrix.html#aa020f25d1d009e639d3f49d96f3d3d6b" title="Assemble H2&#45;Matrix for linear operator linOp and AnsatzSpace ansatz_space with number_of_points inter..." alt="" coords="242,71,397,112"/>
+<area shape="rect" id="node4" href="$class_bembel_1_1_discrete_linear_form.html#a6a575d8557296fc741930c2ebc98b063" title="Bembel::DiscreteLinearForm\l::compute" alt="" coords="216,136,423,177"/>
+<area shape="rect" id="node5" href="$struct_bembel_1_1_discrete_operator_computer_3_01_eigen_1_1_matrix_3_01_scalar_00_01_eigen_1_1_d3ab5fe988617dc61bfc63242dee3aaad.html#a763d4c3d7b491439dfeaba61fdae4ac8" title="Bembel::DiscreteOperator\lComputer\&lt; Eigen::Matrix\l\&lt; Scalar, Eigen::Dynamic,\l Eigen::Dynamic \&gt;, Derived\l \&gt;::compute" alt="" coords="218,202,421,287"/>
+<area shape="rect" id="node6" href="$class_bembel_1_1_discrete_potential.html#a31b5689b8960c41d9dca561b3a986b51" title="Bembel::DiscretePotential\l::evaluate" alt="" coords="223,312,415,353"/>
+</map>

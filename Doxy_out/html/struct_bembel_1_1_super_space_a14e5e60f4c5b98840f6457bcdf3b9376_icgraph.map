@@ -1,0 +1,6 @@
+<map id="Bembel::SuperSpace::get_mesh" name="Bembel::SuperSpace::get_mesh">
+<area shape="rect" id="node2" href="$class_bembel_1_1_glue.html#a06ac73ca783d02f3445e3e4d87c880a0" title="Bembel::Glue::init_Glue" alt="" coords="228,5,404,32"/>
+<area shape="rect" id="node3" href="$namespace_bembel_1_1_projector_routines.html#a66bc5b1efce385b9f29ad1f47ce37ea9" title="Bembel::ProjectorRoutines\l::makeLocalProjectionTriplets" alt="" coords="209,57,423,98"/>
+<area shape="rect" id="node4" href="$class_bembel_1_1_discrete_linear_form.html#a6a575d8557296fc741930c2ebc98b063" title="Bembel::DiscreteLinearForm\l::compute" alt="" coords="213,122,419,163"/>
+<area shape="rect" id="node5" href="$class_bembel_1_1_discrete_potential.html#a31b5689b8960c41d9dca561b3a986b51" title="Bembel::DiscretePotential\l::evaluate" alt="" coords="220,187,412,229"/>
+</map>

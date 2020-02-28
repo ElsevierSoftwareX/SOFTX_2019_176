@@ -1,0 +1,4 @@
+<map id="Bembel::DuffyTrick::computeFfieldQnodes" name="Bembel::DuffyTrick::computeFfieldQnodes">
+<area shape="rect" id="node2" href="$class_eigen_1_1_h2_matrix.html#aa020f25d1d009e639d3f49d96f3d3d6b" title="Assemble H2&#45;Matrix for linear operator linOp and AnsatzSpace ansatz_space with number_of_points inter..." alt="" coords="248,5,403,47"/>
+<area shape="rect" id="node3" href="$struct_bembel_1_1_discrete_operator_computer_3_01_eigen_1_1_matrix_3_01_scalar_00_01_eigen_1_1_d3ab5fe988617dc61bfc63242dee3aaad.html#a763d4c3d7b491439dfeaba61fdae4ac8" title="Bembel::DiscreteOperator\lComputer\&lt; Eigen::Matrix\l\&lt; Scalar, Eigen::Dynamic,\l Eigen::Dynamic \&gt;, Derived\l \&gt;::compute" alt="" coords="224,71,427,157"/>
+</map>

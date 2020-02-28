@@ -1,0 +1,5 @@
+<map id="Bembel::DiscretePotential::DiscretePotential" name="Bembel::DiscretePotential::DiscretePotential">
+<area shape="rect" id="node2" href="$class_bembel_1_1_discrete_potential.html#acf272dd1b282d27f2ca6acd22fce80d6" title="Bembel::DiscretePotential\l::init_DiscretePotential" alt="" coords="245,39,437,80"/>
+<area shape="rect" id="node3" href="$class_bembel_1_1_ansatz_space.html#a3436dfc118853350bcffeb91b5debfeb" title="Bembel::AnsatzSpace\l::get_polynomial_degree" alt="" coords="491,5,674,47"/>
+<area shape="rect" id="node4" href="$namespace_bembel.html#a7ded4e643797e9e7f886a0e64ad643a9" title="Bembel::getFunctionSpace\lOutputDimension" alt="" coords="485,71,680,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Bembel::Spl::DeBoorTPDer" name="Bembel::Spl::DeBoorTPDer">
+<area shape="rect" id="node2" href="$group___spline.html#ga621f5699277e6781e3ee025e386022f9" title="A &quot;by the book&quot; implementation of the derivatives and TP&#45;algos based on the DeBoor Recursion..." alt="" coords="248,5,427,32"/>
+<area shape="rect" id="node3" href="$group___spline.html#ga72fafe41754fc4ebeb6251b0819e6191" title="&quot;By the book&quot; implementations of the Cox&#45;DeBoor formula. Inefficient, do not use at bottlenecks..." alt="" coords="475,31,631,57"/>
+</map>

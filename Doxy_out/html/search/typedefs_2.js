@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['eigentype',['EigenType',['../struct_bembel_1_1_linear_operator_traits_3_01_helmholtz_single_layer_operator_01_4.html#abd4ea606f6e5637eb684da3fc19372ea',1,'Bembel::LinearOperatorTraits&lt; HelmholtzSingleLayerOperator &gt;::EigenType()'],['../struct_bembel_1_1_linear_operator_traits_3_01_laplace_single_layer_operator_01_4.html#ae7050493a19972ff334078529218024f',1,'Bembel::LinearOperatorTraits&lt; LaplaceSingleLayerOperator &gt;::EigenType()'],['../struct_bembel_1_1_linear_operator_traits_3_01_dummy_operator_01_4.html#a0ebaecda2ac708d80ec18ab374c91f85',1,'Bembel::LinearOperatorTraits&lt; DummyOperator &gt;::EigenType()'],['../struct_bembel_1_1_linear_operator_traits_3_01_maxwell_single_layer_operator_01_4.html#ab416f67ae487bd55639092d9163ab8dc',1,'Bembel::LinearOperatorTraits&lt; MaxwellSingleLayerOperator &gt;::EigenType()']]]
+];

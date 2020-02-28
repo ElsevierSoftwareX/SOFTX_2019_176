@@ -1,0 +1,8 @@
+var namespace_bembel_1_1_glue_routines =
+[
+    [ "dofIdentification", "struct_bembel_1_1_glue_routines_1_1dof_identification.html", "struct_bembel_1_1_glue_routines_1_1dof_identification" ],
+    [ "glue_identificationmaker_", "struct_bembel_1_1_glue_routines_1_1glue__identificationmaker__.html", "struct_bembel_1_1_glue_routines_1_1glue__identificationmaker__" ],
+    [ "glue_identificationmaker_< Derived, DifferentialForm::Continuous >", "struct_bembel_1_1_glue_routines_1_1glue__identificationmaker___3_01_derived_00_01_differential_form_1_1_continuous_01_4.html", "struct_bembel_1_1_glue_routines_1_1glue__identificationmaker___3_01_derived_00_01_differential_form_1_1_continuous_01_4" ],
+    [ "glue_identificationmaker_< Derived, DifferentialForm::Discontinuous >", "struct_bembel_1_1_glue_routines_1_1glue__identificationmaker___3_01_derived_00_01_differential_form_1_1_discontinuous_01_4.html", "struct_bembel_1_1_glue_routines_1_1glue__identificationmaker___3_01_derived_00_01_differential_form_1_1_discontinuous_01_4" ],
+    [ "glue_identificationmaker_< Derived, DifferentialForm::DivConforming >", "struct_bembel_1_1_glue_routines_1_1glue__identificationmaker___3_01_derived_00_01_differential_form_1_1_div_conforming_01_4.html", "struct_bembel_1_1_glue_routines_1_1glue__identificationmaker___3_01_derived_00_01_differential_form_1_1_div_conforming_01_4" ]
+];

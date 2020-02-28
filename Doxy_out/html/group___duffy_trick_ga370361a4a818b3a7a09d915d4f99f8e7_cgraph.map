@@ -1,0 +1,13 @@
+<map id="Bembel::DuffyTrick::evaluateBilinearForm" name="Bembel::DuffyTrick::evaluateBilinearForm">
+<area shape="rect" id="node2" href="$struct_bembel_1_1_linear_operator_base.html#a564ca07e65785b8f8bb8882524d5f1d3" title="Bembel::LinearOperatorBase\l::get_FarfieldQuadratureDegree" alt="" coords="227,5,452,47"/>
+<area shape="rect" id="node3" href="$group___duffy_trick.html#ga63fd7fd5ef96ef692b695626b7bfe566" title="compares two elements for similarities and determines, how the elements have to be rotated to move th..." alt="" coords="265,71,413,112"/>
+<area shape="rect" id="node4" href="$struct_bembel_1_1_linear_operator_base.html#a93eae80056713e449c452e86fe4f89eb" title="Compute quadrature degree for numerical integretation close to the singularity based on distance..." alt="" coords="224,136,455,177"/>
+<area shape="rect" id="node5" href="$group___duffy_trick.html#ga551dfff392f5c82f0e78b9a48e7f2a5d" title="far&#45;field quadrature routine, which is based on precomputed values in order to quickly evaluate the i..." alt="" coords="267,201,412,243"/>
+<area shape="rect" id="node7" href="$group___duffy_trick.html#ga5915e8d259c430b7172dc5369bc70d3a" title="no&#45;problem quadrature routine, elements are sufficiently far away from each other, but not far&#45;field yet (this is just an isotropic tensor product quadrature!) " alt="" coords="267,267,412,308"/>
+<area shape="rect" id="node9" href="$group___duffy_trick.html#ga49dc354f57c687874f43ee3e525a5ecd" title="quadrature routine for identical elements " alt="" coords="267,332,412,373"/>
+<area shape="rect" id="node10" href="$group___duffy_trick.html#gafcea22904d57b180213ca56e69507a3c" title="quadrature routine for the common edge case " alt="" coords="267,397,412,439"/>
+<area shape="rect" id="node12" href="$group___duffy_trick.html#gaaa578a1e850501b80e18770123c1fbd9" title="quadrature routine for identical elements " alt="" coords="267,463,412,504"/>
+<area shape="rect" id="node6" href="$struct_bembel_1_1_linear_operator_base.html#a0f7bbdf4c5de7ceff53e60cce7748630" title="Bembel::LinearOperatorBase\l::evaluateIntegrand" alt="" coords="503,332,712,373"/>
+<area shape="rect" id="node8" href="$class_bembel_1_1_element_tree_node.html#a76a5c71bdbc5baf773dac2629998aa5d" title="getter " alt="" coords="510,397,705,439"/>
+<area shape="rect" id="node11" href="$group___duffy_trick.html#gaa45bae55cdce9e0a39ded6b20eedeb4a" title="computes rotations for the Duffy trick " alt="" coords="520,466,695,493"/>
+</map>
