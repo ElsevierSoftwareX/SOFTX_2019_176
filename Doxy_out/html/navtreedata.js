@@ -41,8 +41,8 @@ var NAVTREEINDEX =
 "_ansatz_space_8hpp.html",
 "class_bembel_1_1_basis_1_1_hidden_bernstein_class.html#a6f6729baac5e6830378b0b2e25ac0ae0",
 "class_bembel_1_1_i_o_1_1_logger.html#a3ce344a8f751fb6f0603a6d32937df16",
-"group___spline.html#gab9ad832bc55e1f2854be5baba2d6c8b6",
-"struct_bembel_1_1_linear_operator_base.html#a93eae80056713e449c452e86fe4f89eb"
+"group___spline.html#gab678c79d14a00c03513126b48fc37449",
+"struct_bembel_1_1_linear_operator_base.html#a4363f27d775bc3e8b2364272f89650b1"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

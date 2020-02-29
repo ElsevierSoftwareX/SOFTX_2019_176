@@ -1,4 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$struct_bembel_1_1_potential_base.html" title="Bembel::PotentialBase\l\&lt; LaplaceSingleLayerPotential\l\&lt; LinOp \&gt;, LinOp \&gt;" alt="" coords="5,5,227,61"/>
-<area shape="rect" id="node2" href="$class_bembel_1_1_laplace_single_layer_potential.html" title="Bembel::LaplaceSingleLayer\lPotential\&lt; LinOp \&gt;" alt="" coords="275,13,481,54"/>
+<area shape="rect" id="node1" href="$struct_bembel_1_1_potential_base.html" title="Bembel::PotentialBase\l\&lt; HelmholtzSingleLayerPotential\l\&lt; LinOp \&gt;, LinOp \&gt;" alt="" coords="5,5,244,61"/>
+<area shape="rect" id="node2" href="$class_bembel_1_1_helmholtz_single_layer_potential.html" title="Bembel::HelmholtzSingleLayer\lPotential\&lt; LinOp \&gt;" alt="" coords="292,13,515,54"/>
 </map>

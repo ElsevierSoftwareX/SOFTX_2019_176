@@ -104,6 +104,7 @@ var hierarchy =
     [ "Bembel::H2Multipole::Moment1D< InterpolationPoints, LinOp >", "struct_bembel_1_1_h2_multipole_1_1_moment1_d.html", null ],
     [ "Bembel::H2Multipole::Moment1DDerivative< InterpolationPoints, LinOp >", "struct_bembel_1_1_h2_multipole_1_1_moment1_d_derivative.html", null ],
     [ "Bembel::H2Multipole::Moment2D< InterpolationPoints, LinOp >", "struct_bembel_1_1_h2_multipole_1_1_moment2_d.html", null ],
+    [ "Bembel::H2Multipole::Moment2D< InterpolationPoints, MaxwellSingleLayerOperator >", "struct_bembel_1_1_h2_multipole_1_1_moment2_d_3_01_interpolation_points_00_01_maxwell_single_layer_operator_01_4.html", null ],
     [ "Bembel::Patch", "class_bembel_1_1_patch.html", null ],
     [ "Bembel::PotentialBase< Derived, LinOp >", "struct_bembel_1_1_potential_base.html", null ],
     [ "Bembel::PotentialBase< HelmholtzSingleLayerPotential< LinOp >, LinOp >", "struct_bembel_1_1_potential_base.html", [

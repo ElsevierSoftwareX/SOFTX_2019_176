@@ -185,7 +185,7 @@ template&lt;typename Scalar &gt; </div>
 
 <p>Backward transformation for FMM. The content of long_dst_backward is destroyed. </p>
 
-<p class="definition">Definition at line <a class="el" href="_h2_multipole_8hpp_source.html#l00431">431</a> of file <a class="el" href="_h2_multipole_8hpp_source.html">H2Multipole.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_h2_multipole_8hpp_source.html#l00426">426</a> of file <a class="el" href="_h2_multipole_8hpp_source.html">H2Multipole.hpp</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -331,7 +331,7 @@ template&lt;typename Scalar &gt; </div>
 
 <p>Forward transformation for FMM. </p>
 
-<p class="definition">Definition at line <a class="el" href="_h2_multipole_8hpp_source.html#l00377">377</a> of file <a class="el" href="_h2_multipole_8hpp_source.html">H2Multipole.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_h2_multipole_8hpp_source.html#l00379">379</a> of file <a class="el" href="_h2_multipole_8hpp_source.html">H2Multipole.hpp</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -391,7 +391,7 @@ template&lt;typename LinOp &gt; </div>
 
 <p>Interpolate kernel function on reference domain for FMM. </p>
 
-<p class="definition">Definition at line <a class="el" href="_h2_multipole_8hpp_source.html#l00334">334</a> of file <a class="el" href="_h2_multipole_8hpp_source.html">H2Multipole.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_h2_multipole_8hpp_source.html#l00336">336</a> of file <a class="el" href="_h2_multipole_8hpp_source.html">H2Multipole.hpp</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -422,7 +422,7 @@ Here is the call graph for this function:</div>
 
 <p>Compute tensor interpolation points on unit square from 1D interpolation points. </p>
 
-<p class="definition">Definition at line <a class="el" href="_h2_multipole_8hpp_source.html#l00319">319</a> of file <a class="el" href="_h2_multipole_8hpp_source.html">H2Multipole.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_h2_multipole_8hpp_source.html#l00321">321</a> of file <a class="el" href="_h2_multipole_8hpp_source.html">H2Multipole.hpp</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
@@ -477,7 +477,7 @@ template&lt;typename Mom1D_1 , typename Mom1D_2 , typename LinOp &gt; </div>
 <p>Computes a single 2D moment for the FMM by tensorisation of the 1D moments. </p>
 <p>Throughout this code we face the problem of memory serialisation for the traversel of elements in the element tree. the canonical orders would either be row major or column major traversal of a given patch resulting in e.g. element(i,j) = *(elementRoot + i * n + j) for n = 1 &lt;&lt; j. However, to achieve a localisation of matrix blocks if their corresponding shape functions are geometrically close, we typically use a hierarchical ordering of the elements. The mapping from hierarchical to row major ordering is easily facilitated by computing the elements position in its patch using its llc_. For our special situation of a balanced quadtree, this mapping is the same for every patch. In particular, the moments in our construction of the FMM only depend on the current level of uniform refinement and not on a particular patch. Next, we explicitly set up this mapping, where index_s determines the location of a given element along the first coordinate in the reference domain and index_t its second coordinate in the reference domain. Note that this piece of code only has to be used once in the entire setup of the FMM, such that the overhead is quite small.</p>
 
-<p class="definition">Definition at line <a class="el" href="_h2_multipole_8hpp_source.html#l00216">216</a> of file <a class="el" href="_h2_multipole_8hpp_source.html">H2Multipole.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_h2_multipole_8hpp_source.html#l00222">222</a> of file <a class="el" href="_h2_multipole_8hpp_source.html">H2Multipole.hpp</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -491,8 +491,9 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="group___h2_matrix_gac08b2cd8d930efac4c5f9c836d3134d7_icgraph.png" border="0" usemap="#group___h2_matrix_gac08b2cd8d930efac4c5f9c836d3134d7_icgraph" alt=""/></div>
 <map name="group___h2_matrix_gac08b2cd8d930efac4c5f9c836d3134d7_icgraph" id="group___h2_matrix_gac08b2cd8d930efac4c5f9c836d3134d7_icgraph">
-<area shape="rect" id="node2" href="struct_bembel_1_1_h2_multipole_1_1_moment2_d.html#ab5ca862dddac6d8f678a7e745b35bab1" title="Bembel::H2Multipole\l::Moment2D::compute2DMoment" alt="" coords="220,5,457,47"/>
-<area shape="rect" id="node3" href="class_eigen_1_1_h2_matrix.html#aa020f25d1d009e639d3f49d96f3d3d6b" title="Assemble H2&#45;Matrix for linear operator linOp and AnsatzSpace ansatz_space with number_of_points inter..." alt="" coords="505,5,660,47"/>
+<area shape="rect" id="node2" href="struct_bembel_1_1_h2_multipole_1_1_moment2_d.html#ab5ca862dddac6d8f678a7e745b35bab1" title="Bembel::H2Multipole\l::Moment2D::compute2DMoment" alt="" coords="223,5,460,47"/>
+<area shape="rect" id="node4" href="struct_bembel_1_1_h2_multipole_1_1_moment2_d_3_01_interpolation_points_00_01_maxwell_single_layer_operator_01_4.html#af08ae364102efbba02b5f65a20e8a5a6" title="Bembel::H2Multipole\l::Moment2D\&lt; InterpolationPoints,\l MaxwellSingleLayerOperator\l \&gt;::compute2DMoment" alt="" coords="220,71,463,141"/>
+<area shape="rect" id="node3" href="class_eigen_1_1_h2_matrix.html#aa020f25d1d009e639d3f49d96f3d3d6b" title="Assemble H2&#45;Matrix for linear operator linOp and AnsatzSpace ansatz_space with number_of_points inter..." alt="" coords="511,5,665,47"/>
 </map>
 </div>
 
@@ -503,7 +504,7 @@ Here is the caller graph for this function:</div>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Fri Feb 28 2020 16:46:00 for Bembel by
+    <li class="footer">Generated on Sat Feb 29 2020 10:05:59 for Bembel by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

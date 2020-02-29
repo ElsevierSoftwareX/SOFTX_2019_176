@@ -7,10 +7,10 @@ var group___h2_matrix =
       [ "points_", "struct_bembel_1_1_h2_multipole_1_1_chebychev_roots.html#a2b120c7eebb401fd8cba5075320e776f", null ]
     ] ],
     [ "Moment1D", "struct_bembel_1_1_h2_multipole_1_1_moment1_d.html", [
-      [ "computeMoment1D", "struct_bembel_1_1_h2_multipole_1_1_moment1_d.html#a6c63b34b7e0e291b5bbe10ecbabc85f2", null ]
+      [ "computeMoment1D", "struct_bembel_1_1_h2_multipole_1_1_moment1_d.html#a645c5e59c4d28eca10453539ceef22b9", null ]
     ] ],
     [ "Moment1DDerivative", "struct_bembel_1_1_h2_multipole_1_1_moment1_d_derivative.html", [
-      [ "computeMoment1D", "struct_bembel_1_1_h2_multipole_1_1_moment1_d_derivative.html#a4f0df4df26ec05898f65861744314842", null ]
+      [ "computeMoment1D", "struct_bembel_1_1_h2_multipole_1_1_moment1_d_derivative.html#ab65342599d2836d4a5bebdb2c1bdd17d", null ]
     ] ],
     [ "Moment2D", "struct_bembel_1_1_h2_multipole_1_1_moment2_d.html", [
       [ "compute2DMoment", "struct_bembel_1_1_h2_multipole_1_1_moment2_d.html#ab5ca862dddac6d8f678a7e745b35bab1", null ]

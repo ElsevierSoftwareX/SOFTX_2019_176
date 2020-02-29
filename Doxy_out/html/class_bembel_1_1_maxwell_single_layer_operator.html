@@ -84,7 +84,7 @@ $(document).ready(function(){initNavTree('class_bembel_1_1_maxwell_single_layer_
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="class_bembel_1_1_maxwell_single_layer_operator-members.html">List of all members</a>  </div>
   <div class="headertitle">
-<div class="title">Bembel::MaxwellSingleLayerOperator Class Reference</div>  </div>
+<div class="title">Bembel::MaxwellSingleLayerOperator Class Reference<div class="ingroups"><a class="el" href="group___maxwell.html">Maxwell</a></div></div>  </div>
 </div><!--header-->
 <div class="contents">
 
@@ -113,6 +113,8 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:ae38f0f93c195f68c697009392a0c5132"><td class="memTemplParams" colspan="2">template&lt;class T &gt; </td></tr>
 <tr class="memitem:ae38f0f93c195f68c697009392a0c5132"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="class_bembel_1_1_maxwell_single_layer_operator.html#ae38f0f93c195f68c697009392a0c5132">evaluateIntegrand_impl</a> (const T &amp;super_space, const <a class="el" href="group___geometry.html#ga7f3488fb214d75f08146ff31726428b4">SurfacePoint</a> &amp;p1, const <a class="el" href="group___geometry.html#ga7f3488fb214d75f08146ff31726428b4">SurfacePoint</a> &amp;p2, Eigen::Matrix&lt; typename <a class="el" href="struct_bembel_1_1_linear_operator_traits.html">LinearOperatorTraits</a>&lt; <a class="el" href="class_bembel_1_1_maxwell_single_layer_operator.html">MaxwellSingleLayerOperator</a> &gt;::Scalar, Eigen::Dynamic, Eigen::Dynamic &gt; *intval) const</td></tr>
 <tr class="separator:ae38f0f93c195f68c697009392a0c5132"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad660bfbaa9bffc9fd99963766454261f"><td class="memItemLeft" align="right" valign="top">Eigen::Matrix&lt; std::complex&lt; double &gt;, 4, 4 &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_bembel_1_1_maxwell_single_layer_operator.html#ad660bfbaa9bffc9fd99963766454261f">evaluateFMMInterpolation_impl</a> (const <a class="el" href="group___geometry.html#ga7f3488fb214d75f08146ff31726428b4">SurfacePoint</a> &amp;p1, const <a class="el" href="group___geometry.html#ga7f3488fb214d75f08146ff31726428b4">SurfacePoint</a> &amp;p2) const</td></tr>
+<tr class="separator:ad660bfbaa9bffc9fd99963766454261f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afcfcf51fb141805a4fab9fab9520fa7f"><td class="memItemLeft" align="right" valign="top">std::complex&lt; double &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_bembel_1_1_maxwell_single_layer_operator.html#afcfcf51fb141805a4fab9fab9520fa7f">evaluateKernel</a> (const Eigen::Vector3d &amp;x, const Eigen::Vector3d &amp;y) const</td></tr>
 <tr class="memdesc:afcfcf51fb141805a4fab9fab9520fa7f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Fundamental solution of Helmholtz/Maxwell problem.  <a href="#afcfcf51fb141805a4fab9fab9520fa7f">More...</a><br /></td></tr>
 <tr class="separator:afcfcf51fb141805a4fab9fab9520fa7f"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -139,7 +141,7 @@ Public Member Functions</h2></td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock">
-<p class="definition">Definition at line <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html#l00028">28</a> of file <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html">SingleLayerOperator.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html#l00031">31</a> of file <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html">SingleLayerOperator.hpp</a>.</p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a28c47ea4abd0e2c264127c6d9734c708"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a28c47ea4abd0e2c264127c6d9734c708">&#9670;&nbsp;</a></span>MaxwellSingleLayerOperator()</h2>
@@ -164,11 +166,49 @@ Public Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html#l00033">33</a> of file <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html">SingleLayerOperator.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html#l00036">36</a> of file <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html">SingleLayerOperator.hpp</a>.</p>
 
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="ad660bfbaa9bffc9fd99963766454261f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad660bfbaa9bffc9fd99963766454261f">&#9670;&nbsp;</a></span>evaluateFMMInterpolation_impl()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">Eigen::Matrix&lt;std::complex&lt;double&gt;, 4, 4&gt; Bembel::MaxwellSingleLayerOperator::evaluateFMMInterpolation_impl </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="group___geometry.html#ga7f3488fb214d75f08146ff31726428b4">SurfacePoint</a> &amp;&#160;</td>
+          <td class="paramname"><em>p1</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="group___geometry.html#ga7f3488fb214d75f08146ff31726428b4">SurfacePoint</a> &amp;&#160;</td>
+          <td class="paramname"><em>p2</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td> const</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p class="definition">Definition at line <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html#l00083">83</a> of file <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html">SingleLayerOperator.hpp</a>.</p>
+
+</div>
+</div>
 <a id="ae38f0f93c195f68c697009392a0c5132"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#ae38f0f93c195f68c697009392a0c5132">&#9670;&nbsp;</a></span>evaluateIntegrand_impl()</h2>
 
@@ -217,7 +257,7 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html#l00035">35</a> of file <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html">SingleLayerOperator.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html#l00038">38</a> of file <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html">SingleLayerOperator.hpp</a>.</p>
 
 </div>
 </div>
@@ -257,7 +297,7 @@ template&lt;class T &gt; </div>
 
 <p>Fundamental solution of Helmholtz/Maxwell problem. </p>
 
-<p class="definition">Definition at line <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html#l00083">83</a> of file <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html">SingleLayerOperator.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html#l00118">118</a> of file <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html">SingleLayerOperator.hpp</a>.</p>
 
 </div>
 </div>
@@ -284,7 +324,7 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html#l00099">99</a> of file <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html">SingleLayerOperator.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html#l00134">134</a> of file <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html">SingleLayerOperator.hpp</a>.</p>
 
 </div>
 </div>
@@ -312,7 +352,7 @@ template&lt;class T &gt; </div>
 </table>
 </div><div class="memdoc">
 
-<p class="definition">Definition at line <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html#l00092">92</a> of file <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html">SingleLayerOperator.hpp</a>.</p>
+<p class="definition">Definition at line <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html#l00127">127</a> of file <a class="el" href="_maxwell_2_single_layer_operator_8hpp_source.html">SingleLayerOperator.hpp</a>.</p>
 
 </div>
 </div>
@@ -325,7 +365,7 @@ template&lt;class T &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_bembel.html">Bembel</a></li><li class="navelem"><a class="el" href="class_bembel_1_1_maxwell_single_layer_operator.html">MaxwellSingleLayerOperator</a></li>
-    <li class="footer">Generated on Fri Feb 28 2020 16:46:00 for Bembel by
+    <li class="footer">Generated on Sat Feb 29 2020 10:05:59 for Bembel by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>

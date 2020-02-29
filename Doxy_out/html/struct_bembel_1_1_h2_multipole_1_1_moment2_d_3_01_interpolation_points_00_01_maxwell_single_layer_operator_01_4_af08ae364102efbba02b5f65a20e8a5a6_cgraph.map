@@ -1,0 +1,4 @@
+<map id="Bembel::H2Multipole::Moment2D&lt; InterpolationPoints, MaxwellSingleLayerOperator &gt;::compute2DMoment" name="Bembel::H2Multipole::Moment2D&lt; InterpolationPoints, MaxwellSingleLayerOperator &gt;::compute2DMoment">
+<area shape="rect" id="node2" href="$group___h2_matrix.html#gac08b2cd8d930efac4c5f9c836d3134d7" title="Computes a single 2D moment for the FMM by tensorisation of the 1D moments. " alt="" coords="296,20,463,61"/>
+<area shape="rect" id="node3" href="$struct_bembel_1_1_super_space.html#a6675b25cd3d78e2d9958ebbceb72e548" title="Bembel::SuperSpace\l::get_polynomial_degree" alt="" coords="511,20,693,61"/>
+</map>

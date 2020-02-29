@@ -8,7 +8,6 @@
 #include <Bembel/Geometry>
 #include <Bembel/H2Matrix>
 #include <Bembel/Helmholtz>
-#include <Bembel/IO>
 #include <Bembel/LinearForm>
 
 #include "Data.hpp"
