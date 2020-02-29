@@ -102,7 +102,7 @@ Bembel</h1>
 </ol>
 <h2>1. Introduction <a class="anchor" id="introduction"></a></h2>
 <p><a class="el" href="namespace_bembel.html">Bembel</a> is the Boundary Element Method Based Engineering Library written in C and C++ to solve boundary value problems governed by the Laplace, Helmholtz or electric wave equation within the isogeometric framework [3,4,5,6]. It was developed as part of a cooperation between the TU Darmstadt and the University of Basel, coordinated by <a href="#HeHa">H. Harbrecht</a>, <a href="#SK">S. Kurz</a> and <a href="#SSc">S. Schöps</a>. The code is based on the Laplace BEM of <a href="#JD">J. Dölz</a>, <a href="#HeHa">H. Harbrecht</a>, and <a href="#MM">M. Multerer</a>, [2,7] as well as the spline and geometry framework of <a href="#FW">F. Wolf</a>. The code was extended by <a href="#JD">J. Dölz</a> and <a href="#FW">F. Wolf</a> in early 2018 to cover electromagnetic applications [5,6]. A short introduction to the code has been written [3]. If you utilise our code as part of a publication, we would appreciate it if you cite it.</p>
-<p>This code is currently at version 1.0. Additional features are planned, and developement is ongoing.</p>
+<p>This code is currently at version 0.99. Additional features are planned, development and testing is ongoing.</p>
 <h2>2. What is a <a class="el" href="namespace_bembel.html">Bembel</a>?<a class="anchor" id="whatis"></a></h2>
 <p>A traditional German ceramic, as depicted in our logo. Quoting <a href="https://en.wikipedia.org/wiki/Apfelwein">Wikipedia</a>:</p>
 <blockquote class="doxtable">
@@ -124,6 +124,7 @@ Bembel</h1>
 <p>If you want to run the provided examples and tests, you can utilize the procided <code>CMakeLists.txt</code>. We recommend setting up a <code>build/</code> directory in the root directory of the <a class="el" href="namespace_bembel.html">Bembel</a>, to switch to it and then to call <code>cmake ..</code> and <code>make debug</code> or <code>make release</code>, respectively.</p>
 <p>The CMake-File checks for installations of <a class="el" href="namespace_eigen.html">Eigen</a> via the corresponding <code>Eigen3Config.cmake</code>. On Unix you may run <code>apt install libeigen3-dev</code>, or on Mac with Homebrew <code>brew install eigen</code>, and everything should work. Alternatively, you can delete the line <code>find_package (Eigen3 3.3 REQUIRED NO_MODULE)</code> and all lines of the type <code>target_link_librarires(... Eigen3::Eigen)</code> from <code>CMakeLists.txt</code>, and give a path to the eigen headers as an include directory manually.</p>
 <p>Then, the examples and tests should compile without any issues. You may run all tests by calling <code>make test</code> from the <code>build/</code> directory after a successful compilation.</p>
+<p>The geometry files required to run the examples can be found in the <code>geo/</code> folder.</p>
 <h2>5. Structure of the Repository <a class="anchor" id="structure"></a></h2>
 <p>The general structure of the repository looks as follows.</p>
 <ul>
@@ -176,7 +177,7 @@ Bembel</h1>
 </ul>
 <h2>10. About the People <a class="anchor" id="people"></a></h2>
 <ul>
-<li><a href="https://www.mathematik.tu-darmstadt.de/fb/personal/details/juergen_doelz.de.jsp">Jürgen Dölz</a> <a class="anchor" id="JD"></a> currently holds an assistant professorship at the University of Twente. He may also be found <a href="https://github.com/jdoelz">on GitHub</a>.</li>
+<li><a href="https://www.mathematik.tu-darmstadt.de/fb/personal/details/juergen_doelz.de.jsp">Jürgen Dölz</a> <a class="anchor" id="JD"></a> currently holds an assistant professorship at the <a href="https://www.utwente.nl/en/">University of Twente</a>. He may also be found <a href="https://github.com/jdoelz">on GitHub</a>.</li>
 <li><a href="https://cm.dmi.unibas.ch/">Helmut Harbrecht</a> <a class="anchor" id="HeHa"></a> currently holds a professorship at the <a href="https://dmi.unibas.ch/de/home/">Departement Mathematik und Informatik</a> at the University of Basel.</li>
 <li><a href="https://www.temf.tu-darmstadt.de/temf/mitarbeiter/mitarbeiterdetails_57408.en.jsp">Stefan Kurz</a> <a class="anchor" id="SK"></a> currently holds a professorship at the <a href="https://www.temf.tu-darmstadt.de/temf/index.en.jsp">Institute TEMF</a> at TU Darmstadt and is Vice President for Hybrid Modelling at Robert Bosch GmbH.</li>
 <li><a href="https://www.ics.usi.ch/index.php/people-detail-page/297-prof-michael-multerer">Michael Multerer</a> <a class="anchor" id="MM"></a> currently holds a professorship at the Institute of Computational Science at the Università della Svizzera italiana in Lugano. He may also be found <a href="https://github.com/muchip">on GitHub</a>.</li>
@@ -185,8 +186,8 @@ Bembel</h1>
 </ul>
 <h2>11. Funding <a class="anchor" id="funding"></a></h2>
 <p>Work on <a class="el" href="namespace_bembel.html">Bembel</a> was conducted with the following financial support (alphabetically):</p><ul>
-<li>DFG Grant SCHO1562/3-1,</li>
 <li>DFG Grant KU1553/4-1,</li>
+<li>DFG Grant SCHO1562/3-1,</li>
 <li>The Graduate School of Computational Engineering at TU Darmstadt and the Excellence Initiative of the German Federal and State Governments and the Graduate School of Computational Engineering at TU Darmstadt,</li>
 <li>SNSF Grant 137669,</li>
 <li>SNSF Grant 156101,</li>
@@ -197,7 +198,7 @@ Bembel</h1>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sat Feb 29 2020 10:05:59 for Bembel by
+    <li class="footer">Generated on Sat Feb 29 2020 10:13:21 for Bembel by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.13 </li>
   </ul>
