@@ -1,7 +1,6 @@
 var NAVTREE =
 [
   [ "Bembel", "index.html", [
-    [ "Bembel", "index.html#mainpage", null ],
     [ "Todo List", "todo.html", null ],
     [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", null, [
@@ -42,7 +41,7 @@ var NAVTREEINDEX =
 "class_bembel_1_1_basis_1_1_hidden_bernstein_class.html#a6f6729baac5e6830378b0b2e25ac0ae0",
 "class_bembel_1_1_i_o_1_1_logger.html#a3ce344a8f751fb6f0603a6d32937df16",
 "group___spline.html#gab678c79d14a00c03513126b48fc37449",
-"struct_bembel_1_1_linear_operator_base.html#a4363f27d775bc3e8b2364272f89650b1"
+"struct_bembel_1_1_linear_operator_base.html#a46d1663265d35d3db4c8041ba5693bd1"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
