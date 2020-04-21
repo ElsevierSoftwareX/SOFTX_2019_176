@@ -25,7 +25,7 @@ var struct_bembel_1_1_super_space =
     [ "get_polynomial_degree", "struct_bembel_1_1_super_space.html#a6675b25cd3d78e2d9958ebbceb72e548", null ],
     [ "get_polynomial_degree_plus_one_squared", "struct_bembel_1_1_super_space.html#a96bd1d153e9e08652fc2fd84c9ae3817", null ],
     [ "get_refinement_level", "struct_bembel_1_1_super_space.html#a5f3f9572bcbb4306e4e7e7ec55801574", null ],
-    [ "init_SuperSpace", "struct_bembel_1_1_super_space.html#a4eac1298742ea53dee27eaabee89c62e", null ],
+    [ "init_SuperSpace", "struct_bembel_1_1_super_space.html#afbe66fe8571dc707289a2dbcaae673e2", null ],
     [ "map2surface", "struct_bembel_1_1_super_space.html#afb46395178178b0d82d14ba3dfeb806e", null ],
     [ "operator=", "struct_bembel_1_1_super_space.html#ae0530e0219a580eeb6fc5e0e7f78f377", null ],
     [ "vectorBasisDivergenceInteraction", "struct_bembel_1_1_super_space.html#a1722210e171e373ceaacd13838acb4e4", null ],

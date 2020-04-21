@@ -1,7 +1,7 @@
 var searchData=
 [
   ['identifypatch',['identifyPatch',['../class_bembel_1_1_element_tree.html#a77a9c9dfa785e3a829a68c61b5a39ad6',1,'Bembel::ElementTree']]],
-  ['init_5fansatzspace',['init_AnsatzSpace',['../class_bembel_1_1_ansatz_space.html#af48588258c3f2b0091df22febb96705c',1,'Bembel::AnsatzSpace']]],
+  ['init_5fansatzspace',['init_AnsatzSpace',['../class_bembel_1_1_ansatz_space.html#a4be284b540e0564403c48e997f352a8b',1,'Bembel::AnsatzSpace']]],
   ['init_5fblockclustertree',['init_BlockClusterTree',['../class_bembel_1_1_block_cluster_tree.html#a85ffc0c8732cce33c2589eb38820a059',1,'Bembel::BlockClusterTree']]],
   ['init_5fchebyshevroots',['init_ChebyshevRoots',['../struct_bembel_1_1_h2_multipole_1_1_chebychev_roots.html#a9bd1ba03b2f726b53912969b78510451',1,'Bembel::H2Multipole::ChebychevRoots']]],
   ['init_5fclustertree',['init_ClusterTree',['../class_bembel_1_1_cluster_tree.html#a284130d61b3dab43656991820ee4ed40',1,'Bembel::ClusterTree']]],
@@ -15,7 +15,7 @@ var searchData=
   ['init_5fh2matrix',['init_H2Matrix',['../class_eigen_1_1_h2_matrix.html#aa020f25d1d009e639d3f49d96f3d3d6b',1,'Eigen::H2Matrix']]],
   ['init_5fpatch',['init_Patch',['../class_bembel_1_1_patch.html#a94e90e693ae9764675d67ea9b1755252',1,'Bembel::Patch']]],
   ['init_5fprojector',['init_Projector',['../class_bembel_1_1_projector.html#a3bf72a255d274bb53d48ab122e0fdc47',1,'Bembel::Projector']]],
-  ['init_5fsuperspace',['init_SuperSpace',['../struct_bembel_1_1_super_space.html#a4eac1298742ea53dee27eaabee89c62e',1,'Bembel::SuperSpace']]],
+  ['init_5fsuperspace',['init_SuperSpace',['../struct_bembel_1_1_super_space.html#afbe66fe8571dc707289a2dbcaae673e2',1,'Bembel::SuperSpace']]],
   ['init_5fvtkdomainexport',['init_VTKDomainExport',['../class_bembel_1_1_v_t_k_domain_export.html#a19cadd7c7b56486bfbc73136da85c1bd',1,'Bembel::VTKDomainExport']]],
   ['init_5fvtksurfaceexport',['init_VTKSurfaceExport',['../class_bembel_1_1_v_t_k_surface_export.html#a9a28ff9434c44eb51145ad6e7b8d6a32',1,'Bembel::VTKSurfaceExport']]],
   ['integrate0',['integrate0',['../group___duffy_trick.html#ga551dfff392f5c82f0e78b9a48e7f2a5d',1,'Bembel::DuffyTrick']]],

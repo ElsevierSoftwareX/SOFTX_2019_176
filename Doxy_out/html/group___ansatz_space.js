@@ -4,7 +4,7 @@ var group___ansatz_space =
       [ "AnsatzSpace", "class_bembel_1_1_ansatz_space.html#a6206eb9afb37689673e36361e8452c69", null ],
       [ "AnsatzSpace", "class_bembel_1_1_ansatz_space.html#a99cdd17c1aff3e73daaf0d47ae6b2764", null ],
       [ "AnsatzSpace", "class_bembel_1_1_ansatz_space.html#a9860ac0d6ca7086cf869a0022cba78cd", null ],
-      [ "AnsatzSpace", "class_bembel_1_1_ansatz_space.html#aa2554ed2e018ec1596cc1c1a3fde0d33", null ],
+      [ "AnsatzSpace", "class_bembel_1_1_ansatz_space.html#a212a649562467e3f8b74d808945e72e3", null ],
       [ "get_geometry", "class_bembel_1_1_ansatz_space.html#a590b3867c8db980548af6e001b4765e5", null ],
       [ "get_knot_repetition", "class_bembel_1_1_ansatz_space.html#a5cec3e6eeaee0efff6ba5d5ffc58a895", null ],
       [ "get_number_of_dofs", "class_bembel_1_1_ansatz_space.html#aff796b7da255985006c532149336706b", null ],
@@ -14,7 +14,7 @@ var group___ansatz_space =
       [ "get_refinement_level", "class_bembel_1_1_ansatz_space.html#a6669a429ee0d176720d9fa19f277ec6d", null ],
       [ "get_superspace", "class_bembel_1_1_ansatz_space.html#a976516196d270b3fb5f3af0ef34dc95b", null ],
       [ "get_transformation_matrix", "class_bembel_1_1_ansatz_space.html#a5649a924885719a7bff5fd7ba2f90640", null ],
-      [ "init_AnsatzSpace", "class_bembel_1_1_ansatz_space.html#af48588258c3f2b0091df22febb96705c", null ],
+      [ "init_AnsatzSpace", "class_bembel_1_1_ansatz_space.html#a4be284b540e0564403c48e997f352a8b", null ],
       [ "operator=", "class_bembel_1_1_ansatz_space.html#a9a37d92303d8709ad295615d952ee445", null ]
     ] ],
     [ "FunctionEvaluator", "class_bembel_1_1_function_evaluator.html", [
@@ -72,7 +72,7 @@ var group___ansatz_space =
       [ "get_polynomial_degree", "struct_bembel_1_1_super_space.html#a6675b25cd3d78e2d9958ebbceb72e548", null ],
       [ "get_polynomial_degree_plus_one_squared", "struct_bembel_1_1_super_space.html#a96bd1d153e9e08652fc2fd84c9ae3817", null ],
       [ "get_refinement_level", "struct_bembel_1_1_super_space.html#a5f3f9572bcbb4306e4e7e7ec55801574", null ],
-      [ "init_SuperSpace", "struct_bembel_1_1_super_space.html#a4eac1298742ea53dee27eaabee89c62e", null ],
+      [ "init_SuperSpace", "struct_bembel_1_1_super_space.html#afbe66fe8571dc707289a2dbcaae673e2", null ],
       [ "map2surface", "struct_bembel_1_1_super_space.html#afb46395178178b0d82d14ba3dfeb806e", null ],
       [ "operator=", "struct_bembel_1_1_super_space.html#ae0530e0219a580eeb6fc5e0e7f78f377", null ],
       [ "vectorBasisDivergenceInteraction", "struct_bembel_1_1_super_space.html#a1722210e171e373ceaacd13838acb4e4", null ],
